@@ -32,7 +32,7 @@
             alert("Bienvenido" + usuariohtml.value, + " ingresado");
         }
         else {
-            alert("Ingrese los datos porfa");
+            alert("Ingrese los datos requeridos");
         }
 
     })
