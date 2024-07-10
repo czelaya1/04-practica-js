@@ -17,7 +17,7 @@
 
 }
  .nav{
-    background-color: rgb(0, 255, 13);
+    background-color: #8ed1fc;
     color:white;
 
 
@@ -77,7 +77,7 @@
  .sidebar button{
     width: 100%;
     padding: 1rem;
-    background-color: rgb(0, 255, 42);
+    background-color: #8ed1fc;
     border: none;
     cursor: pointer;
     color: white;
